@@ -1,4 +1,5 @@
-/*style sheet doesn't load*/
+/*heading and logo*/
+/*style sheet doesn't load- check navigation commands in <link> element*/
 #float-left{
     float: left;
     background-color: red;

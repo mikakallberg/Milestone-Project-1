@@ -25,7 +25,7 @@ Different parts of page...
 Testing:
 
 Bugs:
--Changes to content won't load.
+-CSS content won't load.
 Solverd bugs
 
 Validator Testing
