@@ -5,5 +5,8 @@
     padding: 0;
     border: none;
 }
+body{
+    min-height: 100vh;
+}
 /*header styling*/
 /*footer styling*/
