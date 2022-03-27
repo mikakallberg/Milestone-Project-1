@@ -1,7 +1,8 @@
-.float-left{
+/*style sheet doesn't load*/
+#float-left{
     float: left;
 }
 
-.float-right{
+#float-right{
     float: right;
 }
