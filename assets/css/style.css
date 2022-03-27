@@ -1,8 +1,10 @@
 /*style sheet doesn't load*/
 #float-left{
     float: left;
+    background-color: red;
 }
 
 #float-right{
     float: right;
+    background-color: green;
 }
