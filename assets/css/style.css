@@ -3,9 +3,57 @@
 #float-left{
     float: left;
     background-color: red;
+    margin-left: 10px;
+    padding: 50px;
 }
 
 #float-right{
     float: right;
     background-color: green;
+    display: inline-block;
+}
+
+/*index.html line 1 picture and text-box*/
+#cv-picture{
+    float: left;
+    display: inline-block;
+    padding: 200px;
+    border: 5px solid yellow;
+    margin: 175px 10px 10px -12.5%;
+    background-color: blue;
+}
+
+#quotes{
+    float: right;
+    display: inline-block;
+    padding: 200px;
+    border: 5px solid yellow;
+    margin: 175px 10px 10px -12.5%;
+    background-color: blue;
+}
+
+/*index.html line 2 background text-box and the don't know box*/
+#background{
+    float: left;
+    display: inline-block;
+    padding: 200px;
+    border: 5px solid yellow;
+    margin: 600px 10px 10px -25%;
+    background-color: blueviolet;
+}
+
+#know{
+    float: right;
+    display: inline-block;
+    padding: 200px;
+    border: 5px solid yellow;
+    margin: 600px 10px 10px -10px;
+    background-color: blueviolet;
+}
+
+/*footer*/
+
+footer{
+    float: center;
+    height: 100px;
 }
