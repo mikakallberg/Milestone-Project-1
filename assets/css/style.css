@@ -4,12 +4,15 @@
     padding: 0;
     border: none;
 }
-/*heading and logo*/
+.content{
+    flex: 1 0 auto;
+}
+heading and logo
 /*style sheet doesn't load- check navigation commands in <link> element*/
 #style{
     min-height: 100vh;
 }
-#float-left{
+header{
     float: left;
     background-color: red;
     padding: 50px;
@@ -17,7 +20,7 @@
     margin: 20px;
 }
 
-#float-right{
+nav{
     float: right;
     background-color: green;
     padding: 50px;
@@ -26,7 +29,7 @@
 }
 
 /*index.html line 1 picture and text-box*/
-#cv-picture{
+.cv-picture{
     float: left;
     padding: 10vw;
     border: 5px solid yellow;
@@ -34,7 +37,7 @@
     background-color: blue;
 }
 
-#quotes{
+.quotes{
     float: right;
     padding: 200px;
     border: 5px solid yellow;
@@ -57,12 +60,12 @@
     border: 5px solid yellow;
     margin: 600px 10px 10px -10px;
     background-color: blueviolet;
-}
+}*/
 
 /*footer*/
 
-footer{
-    width: 100%;
-    height: 150px;
+.footer{ /*trying tricks from css-tricks.com*/
+    flex-shrink: 0;
     background-color: aquamarine;
+    text-align: center;
 }
