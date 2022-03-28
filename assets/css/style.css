@@ -9,11 +9,11 @@
     min-height: 100vh;
 }*/
 /*header styling*/
-#logo{
+.logo{
     float: left;
     padding: 50px;
-    background-color: red;
     border: 5px solid yellow;
+    background-color: red;
     margin: auto;
 }
 
@@ -23,7 +23,7 @@ nav{
     border: 5px solid yellow;
 }
 
-/*content styling line 1*/
+/*content styling line 1 index/cv */
 
 #cv-picture{
     clear: both;
@@ -42,22 +42,31 @@ nav{
     
 }
 
-/*content styling line 2*/
-#background{
+/*content styling line 2 index/cv */
+.background{
     clear: both;
     background-color: blue;
-    border: 5px solid yellow;
     padding: 50px 0;
+    border: 5px solid yellow;
     width: 48%;
     float: left;
 }
 
-#know{
+.know{
     background-color: blue;
-    border: 5px solid yellow;
     padding: 50px 0;
+    border: 5px solid yellow;
     width: 48%;
     float: right;
+}
+
+/*content styling line 2 association*/
+.picture-association{
+    clear: both;
+    text-align: center;
+    background-color: blueviolet;
+    margin: 0 auto;
+    height: 200px;
 }
 
 /*footer styling*/
