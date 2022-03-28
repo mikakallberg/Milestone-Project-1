@@ -5,8 +5,71 @@
     padding: 0;
     border: none;
 }
-body{
+/*body{ "trouble shooting"
     min-height: 100vh;
-}
+}*/
 /*header styling*/
+#logo{
+    float: left;
+    padding: 50px;
+    background-color: red;
+    border: 5px solid yellow;
+    margin: auto;
+}
+
+nav{
+    float: right;
+    background-color: green;
+    border: 5px solid yellow;
+}
+
+/*content styling line 1*/
+
+#cv-picture{
+    clear: both;
+    padding: 50px 0;
+    border: 5px solid yellow;
+    background-color: blueviolet;
+    width: 48%;
+    float: left;
+}
+#quotes{
+    padding: 50px 0;
+    border: 5px solid yellow;
+    background-color: blueviolet;
+    width: 48%;
+    float: right;
+    
+}
+
+/*content styling line 2*/
+#background{
+    clear: both;
+    background-color: blue;
+    border: 5px solid yellow;
+    padding: 50px 0;
+    width: 48%;
+    float: left;
+}
+
+#know{
+    background-color: blue;
+    border: 5px solid yellow;
+    padding: 50px 0;
+    width: 48%;
+    float: right;
+}
+
 /*footer styling*/
+
+footer{
+    clear: both;
+    text-align: center;
+    background-color: aquamarine;
+    height: fit-content;
+
+}
+
+.social{
+    display: inline;
+}

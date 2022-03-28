@@ -25,9 +25,10 @@ Different parts of page...
 Testing:
 
 Bugs:
--Footer won't stick to the bottom.
+
 Solverd bugs
 -CSS content won't load.
+-Footer won't stick to the bottom.
 
 Validator Testing
 HTML
