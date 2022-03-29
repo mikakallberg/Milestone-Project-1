@@ -23,15 +23,28 @@ h1{
     font-size: 220%;
 }
 
-.logo{
+#logo{
     float: left;
-    margin-left: 30px;
+    margin-left: 20px;
 }
 
-#menu, li{
+#logo, #menu{
+    line-height: 50px;
+}
+
+#menu > li{
     float: right;
-    margin-right: 30px;
+    margin: 15px 20px 0 0;
     list-style-type: none;
+}
+
+#menu, a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu, a:hover{
+    box-shadow: 0 0 5px #798679;
 }
 
 .header-image{
