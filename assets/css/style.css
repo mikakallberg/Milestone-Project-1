@@ -34,7 +34,7 @@ h1{
 
 #menu > li{
     float: right;
-    margin: 15px 20px 0 0;
+    margin-right: 20px;
     list-style-type: none;
 }
 
