@@ -1,5 +1,8 @@
 /*overall styling*/
-/*taken from walkthrou project, trouble shooting*/
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@200&family=Montserrat:wght@300&display=swap');
+
+
+/*aknowledgment:love running-walkthrou project*/
 *{
     margin: 0;
     padding: 0;
