@@ -14,10 +14,13 @@
 /*header styling*/
 .logo{
     float: left;
+    margin-left: 30px;
 }
 
-nav{
+#menu, li{
     float: right;
+    margin-right: 30px;
+    margin-bottom: none;
     list-style-type: none;
 }
 
