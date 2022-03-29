@@ -14,22 +14,19 @@
 /*header styling*/
 .logo{
     float: left;
-    padding: 25px;
-    background-color: red;
-    margin: auto;
 }
 
 nav{
     float: right;
-    padding: 0;
-    background-color: green;
-    border: 5px solid yellow;
     list-style-type: none;
 }
+
 .header-image{
     overflow: hidden;
     clear: both;
 }
+
+
 
 
 /*footer styling*/
