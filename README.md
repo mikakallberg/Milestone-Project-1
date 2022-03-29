@@ -5,6 +5,9 @@ The area mostly comprice of apartment buildings, so there is no real way of havi
 Features:
 Keyword: Are based on which applicable keywords got the highest amount of searches on Google Trends (https://trends.google.com/trends/explore?geo=SE&q=tr%C3%A4dg%C3%A5rd,plantering,urban%20tr%C3%A4dg%C3%A5rd,odla,kolonilott) in the last 12 months. Since this is a society in Sweden, words in swedish has the highest number of searches.
 
+Main image: 
+Photo by Markus Spiske: https://www.pexels.com/photo/food-healthy-vegetables-agriculture-121629/
+
 Navigation:
 
 The Static Webpage:

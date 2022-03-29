@@ -14,41 +14,23 @@
 /*header styling*/
 .logo{
     float: left;
-    padding: 50px;
-    border: 5px solid yellow;
+    padding: 25px;
     background-color: red;
     margin: auto;
 }
 
 nav{
     float: right;
+    padding: 0;
     background-color: green;
     border: 5px solid yellow;
+    list-style-type: none;
 }
-
-/*content styling line 2 index/cv */
-.background{
+.header-image{
+    overflow: hidden;
     clear: both;
-    background-color: blue;
-    padding: 50px 0;
-    border: 5px solid yellow;
-    width: 48%;
-    float: left;
 }
 
-.know{
-    background-color: blue;
-    padding: 50px 0;
-    border: 5px solid yellow;
-    width: 48%;
-    float: right;
-}
-
-/*content styling line 2*/
-.main-image{
-    clear: both;
-    margin: 0 auto;
-}
 
 /*footer styling*/
 
