@@ -3,6 +3,7 @@ The Urban Growing of Eskadern is a local urban grower society directed at the re
 The area mostly comprice of apartment buildings, so there is no real way of having a garden of your own. But recidents coming together in the communal spaces planting a garden, not only provides a beautiful garden, it is also a learning oppurtunity and a chance for people to meet and create bonds.
 
 Features:
+Keyword: Are based on which applicable keywords got the highest amount of searches on Google Trends (https://trends.google.com/trends/explore?geo=SE&q=tr%C3%A4dg%C3%A5rd,plantering,urban%20tr%C3%A4dg%C3%A5rd,odla,kolonilott) in the last 12 months. Since this is a society in Sweden, words in swedish has the highest number of searches.
 
 Navigation:
 
