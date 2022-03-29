@@ -26,25 +26,6 @@ nav{
     border: 5px solid yellow;
 }
 
-/*content styling line 1 index/cv */
-
-#cv-picture{
-    clear: both;
-    padding: 50px 0;
-    border: 5px solid yellow;
-    background-color: blueviolet;
-    width: 48%;
-    float: left;
-}
-#quotes{
-    padding: 50px 0;
-    border: 5px solid yellow;
-    background-color: blueviolet;
-    width: 48%;
-    float: right;
-    
-}
-
 /*content styling line 2 index/cv */
 .background{
     clear: both;
@@ -63,13 +44,10 @@ nav{
     float: right;
 }
 
-/*content styling line 2 association*/
-.picture-association{
+/*content styling line 2*/
+.main-image{
     clear: both;
-    text-align: center;
-    background-color: blueviolet;
     margin: 0 auto;
-    height: 200px;
 }
 
 /*footer styling*/
