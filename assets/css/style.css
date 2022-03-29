@@ -38,6 +38,10 @@ h1{
     list-style-type: none;
 }
 
+.padding{
+    padding: 3px;
+}
+
 #menu, a{
     text-decoration: none;
     color: inherit;
