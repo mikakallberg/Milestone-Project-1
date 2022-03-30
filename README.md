@@ -44,7 +44,9 @@ This found one error and nine warnings.
 Accessibility
 
 Unfixed bugs
-I did not fix the nine warnings in CSS, because I can't find find them in my code. 
+CSS
+The error was found in the font-family used for h1 and h2 elements called M plus 1. attempt to fix bug resulted in font-family disappearing from all pages.
+I did not fix the nine warnings in CSS, because I can't find find them in my code.
 
 Deployment:
 
