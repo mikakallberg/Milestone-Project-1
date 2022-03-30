@@ -112,14 +112,14 @@ footer{
     line-height: 50px;
 }
 
-#social {
+.social {
     text-align: center;
     color: inherit;
     background-color: #e6e6e6;
     height: fit-content;
 }
 
-#social > li {
+.social > li {
     display: inline;
     margin: 1%;
 }
