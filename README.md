@@ -40,6 +40,7 @@ The error was found in the font-family used for h1 and h2 elements called M plus
 Accessibility
 
 Unfixed bugs
+I did not fix the nine warnings in CSS, because I can't find find them in my code. 
 
 Deployment:
 
