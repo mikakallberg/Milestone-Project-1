@@ -33,6 +33,10 @@ Solverd bugs
 Validator Testing
 HTML
 CSS
+CSS code tested using the W3.org website.
+This found one error and nine warnings.
+The error was found in the font-family used for h1 and h2 elements called M plus 1. Bug fix: removing space between plus and 1.
+
 Accessibility
 
 Unfixed bugs
