@@ -108,6 +108,7 @@ a:hover{
 
 /*Contact us-section*/
 .contact-us {
+    clear: both;
     text-align: center;
     padding: 1%;
 }
