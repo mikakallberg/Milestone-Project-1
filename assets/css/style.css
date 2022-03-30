@@ -59,7 +59,8 @@ a:hover{
     box-shadow: 0 0 5px #798679;
 }
 
-/*Header image*/
+/*Index page*/
+/*header image*/
 
 #header-image{
     overflow: hidden;
@@ -109,6 +110,14 @@ a:hover{
 .contact-us {
     text-align: center;
     padding: 1%;
+}
+
+/*About page*/
+
+.about-image-div-one {
+    clear: both;
+    padding: 1%;
+    margin: 20% 0;
 }
 
 /*footer styling*/
