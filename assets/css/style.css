@@ -136,17 +136,7 @@ a:hover{
 #about-text-div-one{
     float: left;
     width: 33%;
-    padding: 10% 1% 0;
-}
-
-br{
-    color: 1px solid #798679;
-}
-
-#about-text-two{
-    clear: both;
-    float: left;
-    padding-left: 3%;
+    padding: 5% 1% 0;
 }
 
 /*footer styling*/
