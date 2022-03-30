@@ -66,14 +66,14 @@ a:hover{
     overflow: hidden;
     clear: both;
     padding-top: 5px;
-    height: 500px;
+    height: 400px;
 }
 
 /*What is growing now*/
 
 #growing{
     height: 500px;
-    padding: 0 40px;
+    padding: 5px 40px;
 }
 
 .center-text{
