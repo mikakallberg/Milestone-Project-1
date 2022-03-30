@@ -27,15 +27,19 @@ Testing:
 Bugs:
 
 Solverd bugs
--CSS content won't load.
--Footer won't stick to the bottom.
+HTML
+Three of the bugs where area-labels in the footer, which were removed.
+
+CSS
+The error was found in the font-family used for h1 and h2 elements called M plus 1. Bug fix: removing space between plus and 1.
 
 Validator Testing
 HTML
+HTML code tested using w3.org validator. 
+Seven errors an done warning found.
 CSS
 CSS code tested using the W3.org website.
 This found one error and nine warnings.
-The error was found in the font-family used for h1 and h2 elements called M plus 1. Bug fix: removing space between plus and 1.
 
 Accessibility
 
