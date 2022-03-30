@@ -76,6 +76,7 @@ a:hover{
     width: 33%;
     padding-top: 40px;
     background-color: blue;
+    text-align: end;
 }
 
 #buds{
@@ -97,6 +98,7 @@ a:hover{
 
 
 
+
 /*footer styling
 
 footer{
@@ -104,6 +106,7 @@ footer{
     text-align: center;
     background-color: aquamarine;
     height: fit-content;
+    line-height: 50px;
 
 }
 
