@@ -121,6 +121,7 @@ a:hover{
     clear: both;
     text-align: center;
     padding: 0 1%;
+    background-color: green;
 }
 
 /*About page*/
@@ -132,23 +133,48 @@ a:hover{
     padding: 20px 0 0 20px;
 }
 
-.section-one{
+/*.section-one{
     height: 360px;
     background-color: red;
-}
+}*/
 
 #about-image-div-one {
     clear: both;
     float: left;
-    width: 50%;
+    width: 33%;
     padding: 2%;
-    margin-left: 60px;
+    /*margin-left: 20px;*/
+    background-color: red;
+}
+
+#img-one{
+    /*float: right;*/
+    width: 360 px;
+    height: 500px;
 }
 
 #about-text-div-one{
-    float: left;
+    /*width: 33%;*/
+    padding: 1%;
+    margin-top: 20px;
+    background-color: blue;
+}
+
+#about-image-div-two{
+    position: relative;
+    /*clear: both;*/
+    float: right;
     width: 33%;
-    padding: 5% 1% 0;
+    padding-top: 10%;
+    margin: 0 60px;
+    background-color: green;
+}
+
+#img-two{
+    /*position: relative;*/
+    width: 540px;
+    height: 360px;
+    float: left;
 }
 
 /*Contact page*/
