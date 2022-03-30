@@ -42,7 +42,7 @@ h1, h2{
     list-style-type: none;
 }
 
-.padding{
+#menu{
     padding: 3px;
 }
 
@@ -51,7 +51,7 @@ h1, h2{
     color: inherit;
 }
 
-#menu-shadow, a:hover{
+a:hover{
     box-shadow: 0 0 5px #798679;
 }
 
@@ -75,18 +75,22 @@ h1, h2{
     float: left;
     width: 33%;
     padding-top: 40px;
+    background-color: blue;
 }
 
 #buds{
     float: right;
     width: 33%;
     padding-top: 40px;
+    background-color: red;
 }
 
 #spring-crocus{
-    width: 33%;
+    float: left;
+    width: 34%;
     padding-top: 40px;
     margin: 0 auto;
+    background-color: green;
 }
 
 
