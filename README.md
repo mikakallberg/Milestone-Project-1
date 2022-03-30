@@ -32,5 +32,6 @@ Unfixed bugs
 Deployment:
 
 Credits:
+-For help me order of nav-element https://github.com/Pelikantapeten and https://stackoverflow.com/questions/11243002/css-float-right-without-changing-order 
 Content
 Media
