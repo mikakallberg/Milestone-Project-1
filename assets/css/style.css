@@ -142,7 +142,14 @@ a:hover{
 
 /*Contact page*/
 #background-image{
+    clear: both;
     background-image: url(../images/sandie-clarke-q13Zq1Jufks-unsplash\ \(1\).jpg);
+}
+
+#contact-form{
+    width: 20%;
+    padding: 15% 10% 20%;
+    text-align: center;
 }
 
 /*footer styling*/
