@@ -127,14 +127,14 @@ a:hover{
 
 #about-us{
     clear: both;
-    height: 60px;
+    height: 40px;
     text-align: center;
-    padding-left: 20px;
-    background-color: red;
+    padding: 20px 0 0 20px;
 }
 
 .section-one{
-    height: 400px;
+    height: 360px;
+    background-color: red;
 }
 
 #about-image-div-one {
