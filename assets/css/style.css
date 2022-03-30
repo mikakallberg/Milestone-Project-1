@@ -115,13 +115,11 @@ a:hover{
     float: left;
     margin: 0 1%;
 }
-
-/*Contact us-section*/
-.contact-us {
+#contact-us-index {
     clear: both;
     text-align: center;
     padding: 0 1%;
-    background-color: green;
+    margin-top: 5vh;
 }
 
 /*About page*/
@@ -133,23 +131,16 @@ a:hover{
     padding: 20px 0 0 20px;
 }
 
-/*.section-one{
-    height: 360px;
-    background-color: red;
-}*/
-
 #about-image-div-one {
     clear: both;
     float: left;
-    width: 33%;
+    width: 25%;
     padding: 2%;
-    /*margin-left: 20px;*/
-    background-color: red;
 }
 
 #img-one{
     /*float: right;*/
-    width: 360 px;
+    width: 360px;
     height: 500px;
 }
 
@@ -157,17 +148,15 @@ a:hover{
     /*width: 33%;*/
     padding: 1%;
     margin-top: 20px;
-    background-color: blue;
 }
 
 #about-image-div-two{
     position: relative;
     /*clear: both;*/
     float: right;
-    width: 33%;
-    padding-top: 10%;
+    width: 35%;
+    padding-top: 2%;
     margin: 0 60px;
-    background-color: green;
 }
 
 #img-two{
@@ -175,6 +164,13 @@ a:hover{
     width: 540px;
     height: 360px;
     float: left;
+}
+
+#contact-us-about{
+    clear: both;
+    text-align: center;
+    padding: 0 1%;
+    margin-top: 25vh;
 }
 
 /*Contact page*/
@@ -186,7 +182,7 @@ a:hover{
 }
 
 #contact-form{
-    margin: 100px 400px;
+    margin-left: 60%;
     padding: 40px;
     width: 360px;
     background-color: #e6e6e6;
