@@ -17,7 +17,7 @@ body{
     color: #798679;
 }
 
-h1{
+h1, h2{
     font-family: m plus 1, sans-serif;
     color: #808080;
     font-size: 220%;
@@ -65,6 +65,26 @@ h1{
     padding-top: 20px;
     height: 320px;
     width: 100%;
+}
+
+#tulip{
+    float: left;
+    width: 33%;
+    padding: 40px;
+}
+
+#spring-crocus{
+    clear: both;
+    float: center;
+    width: 33%;
+    padding: 40px;
+}
+
+#buds{
+    clear: left;
+    float: right;
+    width: 33%;
+    padding: 40px;
 }
 
 
