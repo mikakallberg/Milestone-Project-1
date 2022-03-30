@@ -104,10 +104,6 @@ a:hover{
     float: left;
 }
 
-.border-image-text{
-    border: 1px solid grey;
-}
-
 /*footer styling*/
 
 footer{
@@ -117,7 +113,7 @@ footer{
 
 #social{
     text-align: center;
-    background-color: aquamarine;
+    background-color: #e6e6e6;
     height: fit-content;
 }
 
