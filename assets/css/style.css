@@ -140,6 +140,11 @@ a:hover{
     padding: 5% 1% 0;
 }
 
+/*Contact page*/
+#background-image{
+    background-image: url(../images/sandie-clarke-q13Zq1Jufks-unsplash\ \(1\).jpg);
+}
+
 /*footer styling*/
 
 footer{
@@ -158,20 +163,3 @@ footer{
     display: inline;
     margin: 1%;
 }
-/*credit to https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/ */
-#page-container {
-    position: relative;
-    min-height: 100vh;
-  }
-  
-  #content-wrap {
-    padding-bottom: 2.5rem;    /* Footer height */
-  }
-  
-  #footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 2.5rem;            /* Footer height */
-  }
-  /*credit to https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/ */
