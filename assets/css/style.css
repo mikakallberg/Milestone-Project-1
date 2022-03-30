@@ -10,7 +10,7 @@
 /*body{ "trouble shooting"
     min-height: 100vh;
 }*/
-/*header styling*/
+/*Header styling*/
 
 body{
     font-family: montserrat, sans-serif;
@@ -55,10 +55,20 @@ h1, h2{
     box-shadow: 0 0 5px #798679;
 }
 
-.header-image{
+/*Header image*/
+
+#header-image{
     overflow: hidden;
     clear: both;
     padding-top: 5px;
+    height: 613px;
+}
+
+/*What is growing now*/
+
+#growing{
+    height: 613px;
+    padding: 40px;
 }
 
 .small-images{
@@ -70,21 +80,20 @@ h1, h2{
 #tulip{
     float: left;
     width: 33%;
-    padding: 40px;
+    padding-top: 40px;
 }
 
 /*#spring-crocus{
     clear: both;
     float: center;
     width: 33%;
-    padding: 40px;
+    padding-top: 40px;
 }*/
 
 #buds{
-    clear: left;
     float: right;
     width: 33%;
-    padding: 40px;
+    padding-top: 40px;
 }
 
 
