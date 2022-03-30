@@ -17,6 +17,9 @@ The navigation bar directs the user to three different pages. To allow the user 
 
 The Static Webpage:
 
+External links:
+All external links are opening in a new tab, there is also a noopener and noreferrer added for added user security.
+
 Different parts of page...
 
 Testing:
