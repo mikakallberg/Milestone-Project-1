@@ -10,13 +10,15 @@
       <title></title>
   </head>
   <body>
+  <div id="page-container"> <!--credit to https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/-->
+      <div id="content-wrap">
       <!--Header-->
-    <header>
-      <a href="index.html" id="logo">
-      <h1 class="padding">Urban Growing at Eskadern</h1>
-        </a>
+      <header>
+       <a href="index.html" id="logo">
+       <h1 class="padding">Urban Growing at Eskadern</h1>
+         </a>
         <!--navigation bar-->
-        <nav>
+         <nav>
           <ul id="menu" >
               <li>
                   <a href="index.html">Home</a>
@@ -28,24 +30,33 @@
                   <a href="contact.html">Contact</a>
               </li>
           </ul>
-      </nav>
-  </header>
-  <section id="section-one">
-    <div class="about-image-div-one">
-      <img src="assets/images/neonbrand-qo6_mo9dsYg-unsplash (1).jpg" alt="People planting flowers together">
-    </div>
-    <div class="about-text-div-one">
-      <p>
-        The people living at Eskadern is a diverse group of people.
-      </p>
-        <p>Some of us have a lot of experience planting everything from flowers to food, and some came with no experience but with curiosity and a little dream.
-
-        </p>
-      <p>We are all just helping each other an dlearning together</p>
-      <p>On top of being a place where people work in the garden together, this is a place to meet, to create connections with future friends.</p>
-    </div>
-  </section>
-      <footer>
+       </nav>
+      </header>
+      <section id="section-one">
+        <h2 id="about-us">About Us</h2>
+        <!--picture 1-->
+        <div>
+          <div id="about-image-div-one"><img src="assets/images/neonbrand-qo6_mo9dsYg-unsplash (1).jpg" alt="People planting flowers together" class="text-align-image">
+           </div>
+        <!-- text 1-->
+        <div id="about-text-div-one">
+          <p>
+            The people living at Eskadern is a diverse group of people.
+           </p>
+            <p>Some of us have a lot of experience planting everything from flowers to food, and some came with no experience but with curiosity and a little dream.
+    
+            </p>
+           <p>We are all just helping each other an dlearning together</p>
+           <p>On top of being a place where people work in the garden together, this is a place to meet, to create connections with future friends.</p>
+        </div>
+    </section>
+    <section>
+      <div class="contact-us">
+        <h2><a href="contact.html">Come Grow With Us</a></h2>
+      </div>
+    </section>
+  
+      <footer id="footer">
         <ul class="social">
           <li><a href="https://facebook.com/" target="_blank" rel="noopener noreferrer" area-label="Come join us on Facebook"><!--<i class="fab fa-facebook"></i>-->Facebook</a></li>
           <li><a href="https://instagram.com/" target="_blank" rel="noopener noreferrer" area-label="Come join us on Instagram"><!--<i class="fab fa-instagram"></i>-->Instagram</a></li>

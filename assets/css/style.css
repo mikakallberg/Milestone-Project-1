@@ -114,25 +114,30 @@ a:hover{
 
 /*About page*/
 
+#about-us{
+    clear: both;
+    height: 50px;
+    text-align: center;
+    padding-left: 20px;
+}
+
 #section-one{
     height: 500px;
 }
 
-.about-image-div-one {
+#about-image-div-one {
     clear: both;
+    float: left;
     width: 33%;
-    height: inherit;
-    padding: 1%;
-    margin: 20% 0;
+    padding: 5% 2%;
+    margin-left: 50px;
     background-color: red;
 }
 
 .about-text-div-one{
-    float: right;
+    float: left;
     width: 33%;
-    height: inherit;
-    padding: 1%;
-    margin: 0 20px;
+    padding: 10% 1%;
     background-color: blue;
 }
 
@@ -154,3 +159,20 @@ footer{
     display: inline;
     margin: 1%;
 }
+/*credit to https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/ */
+#page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+  #content-wrap {
+    padding-bottom: 2.5rem;    /* Footer height */
+  }
+  
+  #footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            /* Footer height */
+  }
+  /*credit to https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/ */
