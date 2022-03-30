@@ -195,6 +195,15 @@ a:hover{
     text-align: center;
     padding-right: 10px;
 }
+
+/*404 page*/
+
+#error-page{
+    text-align: center;
+    padding: 10%;
+    margin-left: 20%;
+}
+
 /*footer styling*/
 
 footer{
