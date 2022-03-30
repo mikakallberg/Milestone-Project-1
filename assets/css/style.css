@@ -7,14 +7,21 @@
     padding: 0;
     border: none;
 }
-/*body{ "trouble shooting"
-    min-height: 100vh;
-}*/
+
+/*sticky footer acknowledgment https://css-tricks.com/couple-takes-sticky-footer/*/
+.content{
+    flex: 1 0 auto;
+}
+html, body{
+    height: 100%;
+}
 /*Header styling*/
 
 body{
     font-family: montserrat, sans-serif;
     color: #798679;
+    display: flex; /*sticky footer acknowledgment*/
+    flex-direction: column; /*sticky footer acknowledgment*/
 }
 
 h1, h2{
@@ -149,7 +156,7 @@ a:hover{
 }
 
 #contact-form{
-    margin: 400px;
+    margin: 100px 400px;
     padding: 40px;
     width: 350px;
     background-color: #e6e6e6;
@@ -167,6 +174,11 @@ a:hover{
 footer{
     /*clear: both;*/
     line-height: 50px;
+}
+
+/*sticky footer acknowledgment https://css-tricks.com/couple-takes-sticky-footer/*/
+.footer{
+    flex-shrink: 0;
 }
 
 .social {
