@@ -10,7 +10,7 @@ Main image:
 Photo by Markus Spiske: https://www.pexels.com/photo/food-healthy-vegetables-agriculture-121629/
 
 What's growing now images:
-Belongs to the author of the code. These are for the user to get an up to date idea of what is happening in the societies different gardens at that season.
+Belongs to the author of the code. These are for the user to get an up to date idea of what is happening in the societies different gardens at that season. Links are provided if the user wishes to gain more information about the plants.
 
 Navigation:
 The navigation bar directs the user to three different pages. To allow the user to know what they are about to click on the active link gives the illusion of being raised up a little by adding a shadow box to what ever the user is hovering over.
