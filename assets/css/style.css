@@ -114,10 +114,19 @@ a:hover{
 
 /*About page*/
 
+#section-one{
+    height: 500px;
+}
+
 .about-image-div-one {
     clear: both;
     padding: 1%;
     margin: 20% 0;
+}
+
+.about-text-div-one{
+    float: right;
+    padding: 1%;
 }
 
 /*footer styling*/
