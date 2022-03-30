@@ -75,6 +75,10 @@ a:hover{
     padding: 0 40px;
 }
 
+.center-text{
+    text-align: center;
+}
+
 #tulip{
     float: left;
     width: 33%;
@@ -100,17 +104,23 @@ a:hover{
     float: left;
 }
 
+.border-image-text{
+    border: 1px solid grey;
+}
+
 /*footer styling*/
 
 footer{
-    clear: both;
+    /*clear: both;*/
+    line-height: 50px;
+}
+
+#social{
     text-align: center;
     background-color: aquamarine;
     height: fit-content;
-    line-height: 50px;
-
 }
 
-.social{
+#social > li {
     display: inline;
 }

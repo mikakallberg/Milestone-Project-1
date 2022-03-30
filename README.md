@@ -18,7 +18,7 @@ The navigation bar directs the user to three different pages. To allow the user 
 The Static Webpage:
 
 External links:
-All external links are opening in a new tab, there is also a noopener and noreferrer added for added user security.
+All external links are opening in a new tab, there is also a noopener and noreferrer added for added user security. (https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/ and https://stackoverflow.com/questions/50709625/link-with-target-blank-and-rel-noopener-noreferrer-still-vulnerable )
 
 Different parts of page...
 
