@@ -120,13 +120,20 @@ a:hover{
 
 .about-image-div-one {
     clear: both;
+    width: 33%;
+    height: inherit;
     padding: 1%;
     margin: 20% 0;
+    background-color: red;
 }
 
 .about-text-div-one{
     float: right;
+    width: 33%;
+    height: inherit;
     padding: 1%;
+    margin: 0 20px;
+    background-color: blue;
 }
 
 /*footer styling*/
