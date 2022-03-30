@@ -28,10 +28,13 @@ Bugs:
 
 Solverd bugs
 HTML
+No title in head-element, added title.
 Three of the bugs where area-labels in the footer, which were removed.
+Unclosed div-element. removed.
+Surplus div-element on line 63, removed.
 
 CSS
-The error was found in the font-family used for h1 and h2 elements called M plus 1. Bug fix: removing space between plus and 1.
+
 
 Validator Testing
 HTML
@@ -44,6 +47,8 @@ This found one error and nine warnings.
 Accessibility
 
 Unfixed bugs
+HTML
+Error found in image assets name, since this is the file name for the .jpg. I can't change it withour removing the picture. Error does not affect page veiw displayed.
 CSS
 The error was found in the font-family used for h1 and h2 elements called M plus 1. attempt to fix bug resulted in font-family disappearing from all pages.
 I did not fix the nine warnings in CSS, because I can't find find them in my code.
