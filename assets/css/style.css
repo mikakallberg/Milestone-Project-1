@@ -23,6 +23,10 @@ h1, h2{
     font-size: 220%;
 }
 
+p{
+    text-align: left;
+}
+
 #logo{
     float: left;
     margin-left: 20px;
@@ -75,25 +79,26 @@ a:hover{
     float: left;
     width: 33%;
     padding-top: 40px;
-    background-color: blue;
     text-align: end;
 }
 
 #buds{
     float: right;
     width: 33%;
-    padding-top: 40px;
-    background-color: red;
+    padding-top: 38px;
 }
 
 #spring-crocus{
     float: left;
     width: 34%;
-    padding-top: 40px;
+    padding-top: 38px;
     margin: 0 auto;
-    background-color: green;
 }
 
+.text-align-image{
+    width: 60%;
+    float: left;
+}
 
 
 
