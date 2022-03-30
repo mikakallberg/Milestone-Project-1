@@ -144,7 +144,9 @@ br{
 }
 
 #about-text-two{
+    clear: both;
     float: left;
+    padding-left: 3%;
 }
 
 /*footer styling*/
