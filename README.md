@@ -25,23 +25,23 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 - __What is growing now__
 
   - The what is growing now section is the first introduction to The Urban Growing at Eskadern.
-  -it is meant to give the user an up to date insight to what is happening at that season in the garden.
-  -Embeded in the text content are external links to wikipedia pages about the different flowers that are growing in this particular season.
-  -All external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
+  - It is meant to give the user an up to date insight to what is happening at that season in the garden.
+  - Embeded in the text content are external links to wikipedia pages about the different flowers that are growing in this particular season.
+  - All external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
 
 ![growingnow](assets/images/whatisgrowingnow.png)
 
 - __Come Grow With Us__
 
   - This section is the first linked expressiv invitation to the user, to join the society.This bar is also present just above the footer on the About page.
-  -It responds when the user hovers over it by creating a shadow behind it, letting the suer know they are about to take action.
+  - It responds when the user hovers over it by creating a shadow behind it, letting the suer know they are about to take action.
 
 ![comegrowwithus](assets/images/comegrowwhitus.png)
 
 - __The Footer__ 
 
   - The footer includes links to social media sites for The Urban Growing at Eskadern. As this is a small society they probably have a Facebook and Instagram page, and as this is a little bit more media savy group they also have Twitter. The links will open to a new tab to allow easy navigation for the user. 
-  -All external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
+  - All external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
   - The footer is another way for the user to connect with the society.
 
 ![Footer](assets/images/footer.png)
@@ -50,11 +50,11 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 
   - The about us page gives the user a little bit more information about the inclusive values of The Urban Growing at Eskadern. 
   - This section allows the user to get to know the society a little more.
-  -There are multiple roads of contact in the content section of the about page. 
+  - There are multiple roads of contact in the content section of the about page. 
 
 ![About](assets/images/aboutlandingpage.png)
 
--embedded in the text are clickabel links to Facebook, Instagram and Twitter. As with the footer all external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
+- Embedded in the text are clickabel links to Facebook, Instagram and Twitter. As with the footer all external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
 
 ![About Text area](assets/images/aboutlinksintext.png)
 
@@ -69,9 +69,9 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 
 - __Error page__
 
--If for some reason the user tries to find a page that doesn't exist, a 404.error page appear.
--The Error page is designed to have the same structure as the Home page, this is to connect even a missfired browser to the website.
--A clear message without distractions are used to guide the user to a solution to their problem.
+- If for some reason the user tries to find a page that doesn't exist, a 404.error page appear.
+- The Error page is designed to have the same structure as the Home page, this is to connect even a missfired browser to the website.
+- A clear message without distractions are used to guide the user to a solution to their problem.
 
 ![404 Error](assets/images/errorpage.png)
 
@@ -99,23 +99,24 @@ This found one error and nine warnings.
 
 - HTML
   - All HTML code were returned without errors when passing through the official [W3C validator](https://validator.w3.org/nu/#textarea)
-- CSS
+  - CSS
   - 1 error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmikakallberg.github.io%2FMilestone-Project-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 ### Unfixed Bugs
 
--In the CSS file there is a bug regarding the font-family. Which if changed becomes unusable. The bug doesn't seem to affect the launching or design. So I let it stay as is.
+- In the CSS file there is a bug regarding the font-family. Which if changed becomes unusable. The bug doesn't seem to affect the launching or design. So I let it stay as is.
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+ To deploy this website I used GitHub pages. The following was done.
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - From the menu to the left pages was selected.
+  - From the source section drop-down menu, select the main branch
+  - From the select folder drop-down menu, select /(root)
+  - Once the main branch and root has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
+The live link can be found here - https://mikakallberg.github.io/Milestone-Project-1/index.html
 
 
 ## Credits 
