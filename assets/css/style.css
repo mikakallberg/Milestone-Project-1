@@ -210,7 +210,6 @@ a:hover{
 /*footer styling*/
 
 footer{
-    /*clear: both;*/
     line-height: 60px;
 }
 
@@ -245,6 +244,9 @@ footer{
         width: 65%;
         height: 900px;
         margin: 0 auto;
+    }
+    #about-us{
+        float: left;
     }
 
     .center-text, #about-us{
@@ -293,6 +295,10 @@ footer{
         width: 90%;
         height: 800px;
         margin: 0 auto;
+    }
+
+    #about-us{
+        float: left;
     }
 
     #tulip, #spring-crocus, #about-image-div-one{
