@@ -132,6 +132,7 @@ a:hover{
 }
 
 #about-image-div-one {
+    float: left;
     clear: both;
     float: left;
     width: 25%;
@@ -139,28 +140,30 @@ a:hover{
 }
 
 #img-one{
-    /*float: right;*/
     width: 360px;
     height: 500px;
 }
 
 #about-text-div-one{
-    /*width: 33%;*/
+    float: left;
+    width: 33%;
+    height: 300px;
+    padding-top: 20px;
+    margin: 0 auto;
     padding: 1%;
     margin-top: 20px;
 }
 
 #about-image-div-two{
-    position: relative;
-    /*clear: both;*/
     float: right;
     width: 35%;
-    padding-top: 2%;
+    height: 300px;
+    padding-top: 2px;
     margin: 0 60px;
+    position: relative;
 }
 
 #img-two{
-    /*position: relative;*/
     width: 540px;
     height: 360px;
     float: left;
@@ -170,7 +173,7 @@ a:hover{
     clear: both;
     text-align: center;
     padding: 0 1%;
-    margin-top: 25vh;
+    margin-top: 75vh;
 }
 
 /*Contact page*/
@@ -232,13 +235,13 @@ footer{
 
 /* For larger to medium screens siz from 1480px width*/
 @media screen and (max-width: 1480px) {
-    #growing{
+    #growing, .section-one{
         width: 65%;
         height: 1200px;
         margin: 0 auto;
     }
 
-    .center-text{
+    .center-text, #about-us{
         padding: 30px 0;
         margin: 0;
     }
@@ -248,14 +251,26 @@ footer{
         float: left;
         padding: 0;
     }
+    #about-image-div-one, #about-text-div-one{
+        width: 65%;
+        float: left;
+        padding: 0;
+    }
 
-    #buds{
+    #buds, #about-image-div-two{
+        clear: both;
+        width: 65%;
+        float: left;
+        padding: 0;
+        margin: 10% 0;
+    }
+    /*#about-text-div-one{
         clear: both;
         width: 80%;
         float: left;
         padding: 0;
         margin: 10% 0;
-    }
+    }*/
 }
 
 /*For medium screen from 900 px wide and down*/
