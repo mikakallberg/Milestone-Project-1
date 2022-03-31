@@ -56,6 +56,8 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 
 -embedded in the text are clickabel links to Facebook, Instagram and Twitter. As with the footer all external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
 
+![About Text area](assets/images/aboutlinksintext.png)
+
 - __The Sign Up Page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
