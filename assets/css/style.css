@@ -192,6 +192,11 @@ a:hover{
     opacity: 0.75;
 }
 
+#button{
+    border: none;
+    font-size: 100%;
+}
+
 .title{
     float: left;
     width: 100px;
