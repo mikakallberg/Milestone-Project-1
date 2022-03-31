@@ -26,6 +26,8 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 
   - The what is growing now section is the first introduction to The Urban Growing at Eskadern.
   -it is meant to give the user an up to date insight to what is happening at that season in the garden.
+  -Embeded in the text content are external links to wikipedia pages about the different flowers that are growing in this particular season.
+  -All external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
 
 ![growingnow](assets/images/whatisgrowingnow.png)
 
@@ -44,12 +46,15 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 
 ![Footer](assets/images/footer.png)
 
-- __Gallery__
+- __About Us__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The about us page gives the user a little bit more information about the inclusive values of The Urban Growing at Eskadern. 
+  - This section allows the user to get to know the society a little more.
+  -There are multiple roads of contact in the content section of the about page. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![About](assets/images/aboutlandingpage.png)
+
+-embedded in the text are clickabel links to Facebook, Instagram and Twitter. As with the footer all external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
 
 - __The Sign Up Page__
 
