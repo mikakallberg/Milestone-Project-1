@@ -289,16 +289,26 @@ footer{
         margin: 0 auto;
     }
 
-    #tulip, #spring-crocus{
+    .section-one{
+        width: 90%;
+        height: 800px;
+        margin: 0 auto;
+    }
+
+    #tulip, #spring-crocus, #about-image-div-one{
         width: inherit;
     }
 
-    #buds{
+    #about-text-div-one{
+        width: inherit;
+    }
+
+    #buds, #about-image-div-two{
         clear: both;
         width: inherit;
     }
 
-    p{
+    #growing > p{
         margin: 10%;
         text-align: center;
     }
