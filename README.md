@@ -36,6 +36,9 @@ Surplus div-element on line 63, removed.
 About-file:
 Three warnings regarding area-labels found in links on lines 54-56. Removed links.
 
+Contact-file:
+Two errors regarding value-element in label. Removed.
+
 CSS
 
 
@@ -46,6 +49,8 @@ Index-file:
 Seven errors and one warning found.
 About-file:
 Four erros found
+Contact-file:
+Two erros found.
 CSS
 CSS code tested using the W3.org website.
 This found one error and nine warnings.
