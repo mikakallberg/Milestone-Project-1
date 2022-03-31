@@ -268,5 +268,25 @@ footer{
         margin-bottom: 20px;
         line-height: 25px;
     }
+
+    #growing{
+        width: 90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #tulip, #spring-crocus{
+        width: inherit;
+    }
+
+    #buds{
+        clear: both;
+        width: inherit;
+    }
+
+    p{
+        margin: 10%;
+        text-align: center;
+    }
     
 }
