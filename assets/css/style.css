@@ -197,6 +197,10 @@ a:hover{
     font-size: 100%;
 }
 
+#button:hover{
+    box-shadow: 0 0 5px #798679;
+}
+
 .title{
     float: left;
     width: 100px;
