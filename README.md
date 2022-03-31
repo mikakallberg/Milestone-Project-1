@@ -38,10 +38,11 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer includes links to social media sites for The Urban Growing at Eskadern. As this is a small society they probably have a Facebook and Instagram page, and as this is a little bit more media savy group they also have Twitter. The links will open to a new tab to allow easy navigation for the user. 
+  -All external links have a noopener and a noreferrer, to increase security for the user. So malicious code can't interfer as the user is transported from our page to the external site.
+  - The footer is another way for the user to connect with the society.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](assets/images/footer.png)
 
 - __Gallery__
 
