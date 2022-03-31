@@ -121,37 +121,20 @@ The live link can be found here - https://mikakallberg.github.io/Milestone-Proje
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
+- Firstly I want to credit my fellow students for both being there easing the stress, but also coming up with ideas of solutions.
+- Second credit Code Institute and the Walkthrough "Love Running" project. I tried hard to not copy any code, but I have used the structure given in teh video of begining from the top and working my way down. I have also copied the basic structure of this README.md file just to give me the headings and a better understanding. 
+- To get the footer to stick to bottom of each page I copied the code given by https://css-tricks.com/couple-takes-sticky-footer/, I have consistenly in text wherever used credited and linked to that webpage in comments to the code.
+- To structure the layout of images and also text I've used a combination of a book (HTML&CSS by Jon Duckett), I have gotten help from Student support Tutoring sessions, special acknowledgemnt here to Christine from Code Institute for helping me align the images and text on the index.html page. I have also googled trouble shooting issues. But I haven't copy pasted code. I'm unsure if the credit needs to be more specific then that.
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos used on the Home page are from two sources. The three small ones are from me and the big header image is from https://www.pexels.com/photo/food-healthy-vegetables-agriculture-121629/. 
+- The photos used on the About page are from https://unsplash.com/photos/qo6_mo9dsYg and https://unsplash.com/photos/QMj47_NSmfs. 
+- The photos used on the Contact page is from https://unsplash.com/photos/q13Zq1Jufks.
+- The photos used on the 404 page are from this site https://www.pexels.com/photo/food-healthy-vegetables-agriculture-121629/.
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
