@@ -22,12 +22,12 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 
 ![Landing Page](assets/images/pexels-markus-spiske-121629.jpg)
 
-- __Club Ethos Section__
+- __What is growing now__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The what is growing now section is the first introduction to The Urban Growing at Eskadern.
+  -it is meant to give the user an up to date insight to what is happening at that season in the garden.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![growing](assets/images/whatisgrowingnow.png)
 
 - __Meetup Times section__
 
