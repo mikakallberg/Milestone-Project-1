@@ -235,9 +235,15 @@ footer{
 
 /* For larger to medium screens siz from 1480px width*/
 @media screen and (max-width: 1480px) {
-    #growing, .section-one{
+    #growing{
         width: 65%;
         height: 1200px;
+        margin: 0 auto;
+    }
+
+    .section-one{
+        width: 65%;
+        height: 900px;
         margin: 0 auto;
     }
 
@@ -264,13 +270,6 @@ footer{
         padding: 0;
         margin: 10% 0;
     }
-    /*#about-text-div-one{
-        clear: both;
-        width: 80%;
-        float: left;
-        padding: 0;
-        margin: 10% 0;
-    }*/
 }
 
 /*For medium screen from 900 px wide and down*/
