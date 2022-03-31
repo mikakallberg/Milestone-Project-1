@@ -70,9 +70,10 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 - __Error page__
 
 -If for some reason the user tries to find a page that doesn't exist, a 404.error page appear.
--
+-The Error page is designed to have the same structure as the Home page, this is to connect even a missfired browser to the website.
+-A clear message without distractions are used to guide the user to a solution to their problem.
 
-![404 Error](assets/images/contactpage.png)
+![404 Error](assets/images/errorpage.png)
 
 ### Features Left to Implement
 
@@ -81,25 +82,29 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The first testing of the code reveald the following errors and warnings:
+HTML code tested using W3C validator:
+Index-file:
+Seven errors and one warning found.
+About-file:
+Four erros found
+Contact-file:
+Two erros found.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+CSS code tested using W3C Jigsaw validator
+This found one error and nine warnings.
 
 
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - All HTML code were returned without errors when passing through the official [W3C validator](https://validator.w3.org/nu/#textarea)
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - 1 error was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmikakallberg.github.io%2FMilestone-Project-1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=sv)
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+-In the CSS file there is a bug regarding the font-family. Which if changed becomes unusable. The bug doesn't seem to affect the launching or design. So I let it stay as is.
 
 ## Deployment
 
