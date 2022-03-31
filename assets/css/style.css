@@ -227,3 +227,16 @@ footer{
     display: inline;
     margin: 1%;
 }
+
+/*Media queries*/
+
+/* For larger to medium screens siz from 1480px width*/
+@media screen and (max-width: 1480px) {
+    #growing{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    
+}
