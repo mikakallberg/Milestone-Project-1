@@ -58,19 +58,26 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
 
 ![About Text area](assets/images/aboutlinksintext.png)
 
-- __The Sign Up Page__
+- __Contact Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page allows the user to contact The Urban Growing at Eskadern. It is the only focus.
+  -The background image is also used as a content giver. The goal is to give the user inspiration to go out and get their hands dirty in the soil.
+  -Visible in the image is also the shadow effect behind the send-button, which is used to give respons to the users actions.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Contact](assets/images/contactpage.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+- __Error page__
+
+-If for some reason the user tries to find a page that doesn't exist, a 404.error page appear.
+-
+
+![404 Error](assets/images/contactpage.png)
 
 ### Features Left to Implement
 
-- Another feature idea
+- A better send button
+-Actions in the form element, right now it's just static.
 
 ## Testing 
 
