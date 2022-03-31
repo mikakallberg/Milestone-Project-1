@@ -33,13 +33,19 @@ Three of the bugs where area-labels in the footer, which were removed.
 Unclosed div-element. removed.
 Surplus div-element on line 63, removed.
 
+About-file:
+Three warnings regarding area-labels found in links on lines 54-56. Removed links.
+
 CSS
 
 
 Validator Testing
 HTML
 HTML code tested using w3.org validator. 
-Seven errors an done warning found.
+Index-file:
+Seven errors and one warning found.
+About-file:
+Four erros found
 CSS
 CSS code tested using the W3.org website.
 This found one error and nine warnings.
@@ -48,7 +54,10 @@ Accessibility
 
 Unfixed bugs
 HTML
+Index-file:
 Error found in image assets name, since this is the file name for the .jpg. I can't change it withour removing the picture. Error does not affect page veiw displayed.
+About-file:
+One of the errors was connected to a space in a .jpg file from line 43. Sam reason for not changing this one.
 CSS
 The error was found in the font-family used for h1 and h2 elements called M plus 1. attempt to fix bug resulted in font-family disappearing from all pages.
 I did not fix the nine warnings in CSS, because I can't find find them in my code.
