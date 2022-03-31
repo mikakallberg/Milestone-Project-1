@@ -27,14 +27,14 @@ The area mostly comprise of apartment buildings, so there is no real way of havi
   - The what is growing now section is the first introduction to The Urban Growing at Eskadern.
   -it is meant to give the user an up to date insight to what is happening at that season in the garden.
 
-![growing](assets/images/whatisgrowingnow.png)
+![growingnow](assets/images/whatisgrowingnow.png)
 
-- __Meetup Times section__
+- __Come Grow With Us__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section is the first linked expressiv invitation to the user, to join the society.This bar is also present just above the footer on the About page.
+  -It responds when the user hovers over it by creating a shadow behind it, letting the suer know they are about to take action.
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![comegrowwithus](assets/images/comegrowwhitus.png)
 
 - __The Footer__ 
 
