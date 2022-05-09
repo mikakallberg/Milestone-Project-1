@@ -351,6 +351,7 @@ footer{
         }
         #contact-us-index{
             padding: 4% 1%;
+            font-size: 8px;
         }
         .social > li{
             display: inline;
@@ -434,15 +435,15 @@ footer{
             margin-top: 27%;
         }
     }
-    /*For very samll screens 320px and down*/
-    @media screen and (max-width: 320px){
+    /*For very samll screens 370px and down*/
+    @media screen and (max-width: 370px){
         /*Header content on all pages*/
         #logo{
-        margin-left: 5px;
+        margin-left: 10%;
         font-size: 9px;
         }
         #menu{
-            margin-left: 43px;
+            margin-left: 20%;
             margin-bottom: 10px;
             line-height: 10px;
             font-size: 13px;
@@ -452,9 +453,6 @@ footer{
         }
         .center-text{
             font-size: 17px;
-        }
-        #contact-us-index{
-            font-size: 8px;
         }
         /*About page*/
         #about-us{
