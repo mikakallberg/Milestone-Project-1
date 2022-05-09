@@ -358,6 +358,9 @@ footer{
             margin: 10%;
             font-size: 26px;
         }
+        .footer{
+            margin-top: 20%;
+        }
         /*Index page*/
         #header-image{
             overflow: hidden;
@@ -431,9 +434,6 @@ footer{
             background-size: cover;
             background-position: center;
         }
-        .footer{
-            margin-top: 27%;
-        }
     }
     /*For very samll screens 370px and down*/
     @media screen and (max-width: 370px){
@@ -471,7 +471,7 @@ footer{
             margin-left: 11%;
         }
         #about-image-div-two{
-            margin-top: 25%;
+            margin-top: 10%;
             margin-left: 1%;
         }
         #contact-us-about{
