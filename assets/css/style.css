@@ -415,10 +415,48 @@ footer{
             width: 100%;
             height: 100%;
         }
+        .title{
+            text-align: inherit;
+        }
         #contact-form{
             margin: 0 4%;
             width: 90%;
         }
+        #background-image{
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            background-repeat: none;
+            background-size: cover;
+            background-position: center;
+        }
+        .footer{
+            margin-top: 27%;
+        }
     }
+    /*For very samll screens 320px and down*/
+    @media screen and (max-width: 320px){
+        /*Header content on all pages*/
+        #logo{
+        margin-left: 5px;
+        font-size: 9px;
+        }
+        #menu{
+            margin-left: 43px;
+            margin-bottom: 10px;
+            line-height: 10px;
+            font-size: 13px;
+        }
+        #growing{
+            padding: 6px 6px 0;
+        }
+        .center-text{
+            font-size: 17px;
+        }
+        #contact-us-index{
+            font-size: 8px;
+        }
+    }
+    
 
 }
