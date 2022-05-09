@@ -129,7 +129,8 @@ a:hover{
     clear: both;
     height: 40px;
     text-align: center;
-    padding: 20px 0 0 20px;
+    padding: 3%;
+    margin-right: 25%;
 }
 
 #about-image-div-one {
@@ -148,7 +149,6 @@ a:hover{
 #about-text-div-one{
     float: left;
     width: 33%;
-    height: 300px;
     padding-top: 20px;
     margin: 0 auto;
     padding: 1%;
@@ -158,9 +158,8 @@ a:hover{
 #about-image-div-two{
     float: right;
     width: 35%;
-    height: 300px;
     padding-top: 2px;
-    margin: 0 60px;
+    margin: 0 40px;
     position: relative;
 }
 
@@ -174,7 +173,7 @@ a:hover{
     clear: both;
     text-align: center;
     padding: 0 1%;
-    margin-top: 75vh;
+    margin-top: 68vh;
 }
 
 /*Contact page*/
@@ -246,24 +245,74 @@ footer{
 
 /*Media queries*/
 
-/* For larger to medium screens siz from 1480px width*/
-@media screen and (max-width: 1480px) {
+/* For larger to medium screens siz from 1150px width*/
+@media screen and (max-width: 1150px) {
+    /*Index page*/
     #growing{
-        width: 65%;
-        height: 1200px;
-        margin: 0 auto;
+        display: inline;
     }
 
+    #tulip {
+        float: none;
+        width: 80%;
+        padding-top: 20px;
+        text-align: end;
+        margin-left: 10%;
+    }
+    #buds {
+        clear: none;
+        width: 80%;
+        float: none;
+        padding: 0;
+        margin: 10%;
+    }
+    #spring-crocus {
+        float: none;
+        width: 80%;
+        padding-top: 20px;
+        margin: 0 auto;
+        margin-bottom: 4%;
+    }
+    /*About page*/
     .section-one{
-        width: 65%;
-        height: 900px;
-        margin: 0 auto;
+        display: inline-grid;
     }
-    #about-us{
+    #about-us {
+        clear: both;
+        height: 40px;
+        text-align: center;
+        padding: 3%;
+        margin-right: 5%;
+    }
+    #about-image-div-one {
         float: left;
+        clear: both;
+        width: 45%;
+        padding: 2%;
     }
 
-    .center-text, #about-us{
+    #about-text-div-one {
+        width: 45%;
+        padding-top: 20px;
+        margin: -55% 48%;
+        padding: 1%;
+        float: right;
+    }
+    #about-image-div-two {
+        float: right;
+        width: 80%;
+        padding-top: 2px;
+        margin: 0 20px;
+        position: relative;
+    }
+    #contact-us-about {
+        clear: both;
+        text-align: center;
+        padding: 0 1%;
+        margin-top: 3vh;
+    }
+
+    .center-text{
         padding: 30px 0;
         margin: 0;
     }
@@ -273,13 +322,8 @@ footer{
         float: left;
         padding: 0;
     }
-    #about-image-div-one, #about-text-div-one{
-        width: 65%;
-        float: left;
-        padding: 0;
-    }
 
-    #buds, #about-image-div-two{
+    #buds{
         clear: both;
         width: 65%;
         float: left;
