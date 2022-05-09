@@ -456,6 +456,29 @@ footer{
         #contact-us-index{
             font-size: 8px;
         }
+        /*About page*/
+        #about-us{
+            padding: 0px 30%;
+            font-size: 20px;
+        }
+        #about-image-div-one{
+            margin-top: 4%;
+            margin-left: 2%;
+        }
+        #image-one{
+            margin-left: 7%;
+        }
+        #about-text-div-one {
+            margin-top: 4%;
+            margin-left: 11%;
+        }
+        #about-image-div-two{
+            margin-top: 25%;
+            margin-left: 1%;
+        }
+        #contact-us-about{
+            font-size: 8px;
+        }
     }
     
 
