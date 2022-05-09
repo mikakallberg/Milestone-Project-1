@@ -410,6 +410,15 @@ footer{
         #about-text-div-one {
             margin-left: 9%;
         }
+        /*Contact page*/
+        #background-image{
+            width: 100%;
+            height: 100%;
+        }
+        #contact-form{
+            margin: 0 4%;
+            width: 90%;
+        }
     }
 
 }
