@@ -251,6 +251,10 @@ footer{
     #growing{
         display: inline;
     }
+    .center-text{
+        padding: 30px 0;
+        margin: 0;
+    }
 
     #tulip {
         float: none;
@@ -311,27 +315,7 @@ footer{
         padding: 0 1%;
         margin-top: 3vh;
     }
-
-    .center-text{
-        padding: 30px 0;
-        margin: 0;
-    }
-
-    #tulip, #spring-crocus{
-        width: 80%;
-        float: left;
-        padding: 0;
-    }
-
-    #buds{
-        clear: both;
-        width: 65%;
-        float: left;
-        padding: 0;
-        margin: 10% 0;
-    }
 }
-
 /*For medium screen from 900 px wide and down*/
 
 @media screen and (max-width: 900px) {
@@ -376,148 +360,146 @@ footer{
         margin: 10%;
         text-align: center;
     }
-    /* For very small screens 420px and down*/
-    @media screen and (max-width: 420px){
-        /*Header content on all pages*/
-        h2{
-            font-size: 20px;
-        }
-        #logo{
-            float: left;
-            margin-left: 8px;
-            font-size: 12px;
-        }
-        #menu{
-            clear: left;
-            float: left;
-            margin-left: 57px;
-            margin-bottom: 10px;
-            line-height: 25px;
-            font-size: 17px;
-        }
-        #contact-us-index{
-            padding: 4% 1%;
-            font-size: 8px;
-        }
-        .footer{
-            margin-top: 20%;
-        }
-        /*Index page*/
-        #header-image{
-            overflow: hidden;
-            clear: both;
-            padding-top: 5px;
-            height: 81px;
-        }
-        #img-header{
-            width: 100%;
-            height: 100%;
-        }
-        .center-text{
-            font-size: 18px;
-        }
-        #growing{
-            height: 200px;
-        }
-        #tulip, #buds, #spring-crocus{
-            width: 100%;
-            height: 90%;
-        }
-        #buds{
-            margin-top: 10%;
-            margin-bottom: 0;
-        }
-        p{
-            font-size: 12px;
-        }
-        /*About us page*/
-        .section-one {
-            width: 90%;
-            height: 200px;
-            margin: 0 4%;
-        }
-        #about-us {
-            padding: 0px 36%;
-            margin: 0;
-            text-align: center;
-        }
-        #img-one {
-            width: 100%;
-            height: 100%;
-            margin-left: 7%;
-        }
-        #img-two {
-            width: 100%;
-            height: 80%;
-            margin-top: 0;
-            margin-left: 7%;
-        }
-        #about-text-div-one {
-            margin-left: 9%;
-        }
-        /*Contact page*/
-        #background-image{
-            width: 100%;
-            height: 100%;
-        }
-        .title{
-            text-align: inherit;
-        }
-        #contact-form{
-            margin: 0 4%;
-        }
-        #background-image{
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-            background-repeat: none;
-            background-size: cover;
-            background-position: center;
-        }
+}
+/* For very small screens 420px and down*/
+@media screen and (max-width: 420px){
+    /*Header content on all pages*/
+    h2{
+        font-size: 20px;
     }
-    /*For very samll screens 370px and down*/
-    @media screen and (max-width: 370px){
-        /*Header content on all pages*/
-        #logo{
-        margin-left: 10%;
-        font-size: 9px;
-        }
-        #menu{
-            margin-left: 20%;
-            margin-bottom: 10px;
-            line-height: 10px;
-            font-size: 13px;
-        }
-        #growing{
-            padding: 6px 6px 0;
-        }
-        .center-text{
-            font-size: 17px;
-        }
-        /*About page*/
-        #about-us{
-            padding: 0px 30%;
-            font-size: 20px;
-        }
-        #about-image-div-one{
-            margin-top: 4%;
-            margin-left: 2%;
-        }
-        #image-one{
-            margin-left: 7%;
-        }
-        #about-text-div-one {
-            margin-top: 4%;
-            margin-left: 11%;
-        }
-        #about-image-div-two{
-            margin-top: 10%;
-            margin-left: 1%;
-        }
-        #contact-us-about{
-            font-size: 8px;
-        }
+    #logo{
+        float: left;
+        margin-left: 8px;
+        font-size: 12px;
     }
-    
-
+    #menu{
+        clear: left;
+        float: left;
+        margin-left: 57px;
+        margin-bottom: 10px;
+        line-height: 25px;
+        font-size: 17px;
+    }
+    #contact-us-index{
+        padding: 4% 1%;
+        font-size: 8px;
+    }
+    .footer{
+        margin-top: 20%;
+    }
+    /*Index page*/
+    #header-image{
+        overflow: hidden;
+        clear: both;
+        padding-top: 5px;
+        height: 81px;
+    }
+    #img-header{
+        width: 100%;
+        height: 100%;
+    }
+    .center-text{
+        font-size: 18px;
+    }
+    #growing{
+        height: 200px;
+    }
+    #tulip, #buds, #spring-crocus{
+        width: 100%;
+        height: 90%;
+    }
+    #buds{
+        margin-top: 10%;
+        margin-bottom: 0;
+    }
+    p{
+        font-size: 12px;
+    }
+    /*About us page*/
+    .section-one {
+        width: 90%;
+        height: 200px;
+        margin: 0 4%;
+    }
+    #about-us {
+        padding: 0px 36%;
+        margin: 0;
+        text-align: center;
+    }
+    #img-one {
+        width: 100%;
+        height: 100%;
+        margin-left: 7%;
+    }
+    #img-two {
+        width: 100%;
+        height: 80%;
+        margin-top: 0;
+        margin-left: 7%;
+    }
+    #about-text-div-one {
+        margin-left: 9%;
+    }
+    /*Contact page*/
+    #background-image{
+        width: 100%;
+        height: 100%;
+    }
+    .title{
+        text-align: inherit;
+    }
+    #contact-form{
+        margin: 0 4%;
+    }
+    #background-image{
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+        background-repeat: none;
+        background-size: cover;
+        background-position: center;
+    }
+}
+/*For very samll screens 370px and down*/
+@media screen and (max-width: 370px){
+    /*Header content on all pages*/
+    #logo{
+    margin-left: 10%;
+    font-size: 9px;
+    }
+    #menu{
+        margin-left: 20%;
+        margin-bottom: 10px;
+        line-height: 10px;
+        font-size: 13px;
+    }
+    #growing{
+        padding: 6px 6px 0;
+    }
+    .center-text{
+        font-size: 17px;
+    }
+    /*About page*/
+    #about-us{
+        padding: 0px 30%;
+        font-size: 20px;
+    }
+    #about-image-div-one{
+        margin-top: 4%;
+        margin-left: 2%;
+    }
+    #image-one{
+        margin-left: 7%;
+    }
+    #about-text-div-one {
+        margin-top: 4%;
+        margin-left: 11%;
+    }
+    #about-image-div-two{
+        margin-top: 10%;
+        margin-left: 1%;
+    }
+    #contact-us-about{
+        font-size: 8px;
+    }
 }
