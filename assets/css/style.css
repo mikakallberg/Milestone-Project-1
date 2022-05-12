@@ -418,20 +418,23 @@ footer{
     }
     
     #tulip{
-        width: 100%;
-        height: 90%;
+        width: 97%;
+        height: 22%;
+        margin-left: 1%;
     }
 
     #buds{
-        width: 100%;
-        height: 90%;
+        width: 97%;
+        height: 20%;
+        margin-left: 1%;
         margin-top: 10%;
         margin-bottom: 0;
     }
 
     #spring-crocus{
-        width: 100%;
-        height: 90%;
+        width: 97%;
+        height: 16%;
+        margin-left: 1%;
     }
 
     p{
@@ -493,24 +496,6 @@ footer{
 
     .center-text{
         font-size: 17px;
-    }
-
-    #tulips{
-        width: 97%;
-        height: 35%;
-        margin-left: 1%;
-    }
-
-    #buds{
-        width: 97%;
-        height: 20%;
-        margin-left: 1%;
-    }
-
-    #spring-crocus{
-        width: 97%;
-        height: 16%;
-        margin-left: 1%;
     }
 
     /*About page*/
