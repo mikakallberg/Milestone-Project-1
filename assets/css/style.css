@@ -451,8 +451,9 @@ footer{
     }
 
     #about-us {
-        padding: 0px 25%;
+        padding: 0;
         margin: 0;
+        padding-top: 4%;
     }
     
     #img-one {
@@ -508,7 +509,6 @@ footer{
 
     /*About page*/
     #about-us{
-        padding: 0px 30%;
         font-size: 17px;
     }
 
