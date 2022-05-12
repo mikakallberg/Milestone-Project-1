@@ -417,14 +417,21 @@ footer{
         font-size: 18px;
     }
     
-    #tulip, #buds, #spring-crocus{
+    #tulip{
         width: 100%;
         height: 90%;
     }
 
     #buds{
+        width: 100%;
+        height: 90%;
         margin-top: 10%;
         margin-bottom: 0;
+    }
+
+    #spring-crocus{
+        width: 100%;
+        height: 90%;
     }
 
     p{
@@ -466,7 +473,7 @@ footer{
         margin: 0 4%;
     }
 }
-/*For very samll screens 370px and down*/
+/*For very small screens 370px and down*/
 @media screen and (max-width: 370px){
     /*Header content on all pages*/
     #logo{
