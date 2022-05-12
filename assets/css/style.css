@@ -74,12 +74,7 @@ a:hover{
     overflow: hidden;
     clear: both;
     padding-top: 5px;
-    height: 81px;
-}
-
-#background-image{
-    width: 100%;
-    height: 100%;
+    height: 400px;
 }
 
 /*What is growing now*/
@@ -121,6 +116,7 @@ a:hover{
     float: left;
     margin: 0 1%;
 }
+
 #contact-us-index {
     clear: both;
     text-align: center;
@@ -256,13 +252,11 @@ footer{
     #header-image{
         height: 350px;
     }
-    #background-image{
-        width: 100%;
-        height: 100%;
-    }
+    
     #growing{
         display: inline;
     }
+
     .center-text{
         padding: 30px 0;
         margin: 0;
@@ -271,11 +265,10 @@ footer{
     #tulip {
         float: none;
         width: 80%;
-        padding-top: 20px;
-        text-align: end;
         margin-left: 10%;
         margin-bottom: 15%;
     }
+
     #buds {
         clear: none;
         width: 80%;
@@ -283,53 +276,44 @@ footer{
         padding: 0;
         margin: 10%;
     }
+
     #spring-crocus {
         float: none;
         width: 80%;
         padding-top: 20px;
-        margin: 0 auto;
         margin-bottom: 4%;
     }
+
     /*About page*/
     .section-one{
         display: inline-grid;
     }
+
     #about-us {
-        clear: both;
-        height: 40px;
-        text-align: center;
-        padding: 3%;
         margin-right: 5%;
     }
+
     #about-image-div-one {
-        float: left;
-        clear: both;
         width: 45%;
-        padding: 2%;
     }
 
     #about-text-div-one {
         width: 45%;
         padding-top: 20px;
         margin: -55% 48%;
-        padding: 1%;
         float: right;
     }
+
     #about-image-div-two {
-        float: right;
         width: 80%;
-        padding-top: 2px;
         margin: 0 20px;
-        position: relative;
     }
+
     #contact-us-about {
-        clear: both;
-        text-align: center;
-        padding: 0 1%;
         margin-top: 3vh;
     }
 }
-/*For medium screen from 700 px wide and down*/
+/*For medium screen from 700 eller 760? px wide and down*/
 @media screen and (max-width: 700px) {
     #menu{
         clear: left;
@@ -338,56 +322,59 @@ footer{
         margin-bottom: 20px;
         line-height: 25px;
     }
+
     #logo{
         font-size: 13px;
     }
-    #background-image{
-        width: 100%;
-        height: 100%;
-    }
+
+    /*Index page*/
+
     .center-text{
         font-size: 28px;
     }
+
     #tulip{
         margin-bottom: 0;
     }
+
     #buds{
         margin: 0 10%;
         margin-bottom: -20%;
     }
+
     #spring_crocus{
+        margin-top: 12%;
         margin-left: 10%;
         margin-bottom: -25%;
         height: 0;
     }
+
     #contact-us-index{
         margin-top: 1vh;
     }
 
-    /*
-
-    .section-one{
+    /*About us page*/
+    #about-image-div-one {
         width: 90%;
-        height: 800px;
-        margin: 0 auto;
+        margin-top: 8%;
+        margin-left: 3%;
     }
 
-    #about-us{
-        float: left;
+    #about-text-div-one {
+        width: 92%;
+        margin: 0;
+        padding: 1%;
+        float: none;
+    }
+    
+    #about-image-div-two {
+        margin: 0 30px;
     }
 
-    #about-image-div-one{
-        width: inherit;
+    /*Contact page*/
+    #contact-form {
+        margin-left: 13%;
     }
-
-    #about-text-div-one{
-        width: inherit;
-    }
-
-    #about-image-div-two{
-        clear: both;
-        width: inherit;
-    }*/
 }
 /* For very small screens 420px and down*/
 @media screen and (max-width: 420px){
