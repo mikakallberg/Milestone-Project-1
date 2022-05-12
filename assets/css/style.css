@@ -387,7 +387,7 @@ footer{
     }
 
     #logo{
-        margin-left: 8px;
+        margin-left: 4px;
         font-size: 12px;
     }
 
@@ -451,7 +451,7 @@ footer{
     }
 
     #about-us {
-        padding: 0px 36%;
+        padding: 0px 25%;
         margin: 0;
     }
     
@@ -471,7 +471,7 @@ footer{
     }
 
     #contact-us-about{
-        margin-top: 210%;
+        margin-top: 230%;
     }
 
     /*Contact page*/
