@@ -390,7 +390,7 @@ footer{
     }
 
     #menu{
-        margin-left: 57px;
+        margin-left: 10px;
         margin-bottom: 10px;
         font-size: 17px;
     }
@@ -458,13 +458,18 @@ footer{
     }
 
     #img-two {
+        width: 113%;
         height: 80%;
-        margin-top: 0;
-        margin-left: 7%;
+        margin-top: 6%;
+        margin-left: 0;
     }
 
     #about-text-div-one {
         margin-left: 9%;
+    }
+
+    #contact-us-about{
+        margin-top: 210%;
     }
 
     /*Contact page*/
@@ -487,6 +492,7 @@ footer{
     #menu{
         line-height: 10px;
         font-size: 13px;
+        margin-left: 57px;
     }
 
     /*Index page*/
@@ -506,17 +512,17 @@ footer{
 
     #about-image-div-one{
         margin-top: 4%;
-        margin-left: 2%;
+        margin-left: 0;
     }
 
     #about-text-div-one {
         margin-top: 4%;
-        margin-left: 11%;
+        margin-left: 7%;
     }
 
     #about-image-div-two{
         margin-top: 10%;
-        margin-left: 1%;
+        margin-left: 5%;
     }
 
     #contact-us-about{
