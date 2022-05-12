@@ -315,7 +315,7 @@ footer{
         margin-top: 3vh;
     }
 }
-/*For medium screen from 700 eller 760? px wide and down*/
+/*For medium screen from 700px wide and down*/
 @media screen and (max-width: 700px) {
     #menu{
         clear: left;
@@ -532,3 +532,28 @@ footer{
         margin-top: 250%;
     }
 }
+/*For very small screens 300px and down*/
+@media screen and (max-width: 300px){
+    /*Content on all pages*/
+    #logo {
+        font-size: 7px;
+    }
+
+    /*Index page*/
+    .center-text{
+        padding: 15px 0;
+    }
+
+    /*About page*/
+    #contact-us-about {
+        margin-top: 265%;
+    }
+
+    /*Contact page*/
+    #contact-form {
+        padding: 19px;
+        margin: 8% 1%;
+    }
+
+}
+
