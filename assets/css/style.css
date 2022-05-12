@@ -488,6 +488,10 @@ footer{
         font-size: 17px;
     }
 
+    #tulips, #buds, #spring-crocus{
+        height: 25%;
+    }
+
     /*About page*/
     #about-us{
         padding: 0px 30%;
@@ -508,7 +512,7 @@ footer{
         margin-top: 10%;
         margin-left: 1%;
     }
-    
+
     #contact-us-about{
         font-size: 8px;
     }
