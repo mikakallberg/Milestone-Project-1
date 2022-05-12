@@ -473,38 +473,42 @@ footer{
     margin-left: 10%;
     font-size: 9px;
     }
+
     #menu{
-        margin-left: 20%;
-        margin-bottom: 10px;
         line-height: 10px;
         font-size: 13px;
     }
+
+    /*Index page*/
     #growing{
         padding: 6px 6px 0;
     }
+
     .center-text{
         font-size: 17px;
     }
+
     /*About page*/
     #about-us{
         padding: 0px 30%;
         font-size: 20px;
     }
+
     #about-image-div-one{
         margin-top: 4%;
         margin-left: 2%;
     }
-    #image-one{
-        margin-left: 7%;
-    }
+
     #about-text-div-one {
         margin-top: 4%;
         margin-left: 11%;
     }
+
     #about-image-div-two{
         margin-top: 10%;
         margin-left: 1%;
     }
+    
     #contact-us-about{
         font-size: 8px;
     }
