@@ -20,14 +20,13 @@ html, body{
 
 body{
     font-family: montserrat, sans-serif;
-    color: #798679;
+    color: #808080;
     display: flex; /*sticky footer acknowledgment*/
     flex-direction: column; /*sticky footer acknowledgment*/
 }
 
 h1, h2{
     font-family: m plus 1, sans-serif;
-    color: #808080;
     font-size: 220%;
 }
 
